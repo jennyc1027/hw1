@@ -1,0 +1,2 @@
+print("123456789**987654321+246810121416-51015202530354045")
+#this arithemetic sequence is random
